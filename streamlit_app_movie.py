@@ -1,3 +1,13 @@
+import streamlit as st
+
+# ------------------------------------------------------------
+# Streamlit Demo App - IMDb Info (Family Matters)
+# ------------------------------------------------------------
+#   Ziel : Beispiele fur Layout-Elemente wie Tabs, Container,
+#          Columns, Metric, Image, Video u.v.m. zeigen.
+#          Daten sind hier statisch hinterlegt, damit man sich
+#          auf das Platzieren konzentrieren kann.
+# ------------------------------------------------------------
 
 # ------------------------------------------------------------
 # Helpers / Static Data
